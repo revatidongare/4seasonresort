@@ -14,11 +14,11 @@
         <!-- end header -->
         
         <!-- start breadcrumb -->
-        <section class="breadcrumb_main_areaaaa margin-bottom-80">
+        <section class="breadcrumb_main_ayea margin-bottom-80">
             <div class="container-fluid">
                 <div class="row">
                     <div class="breadcrumb_main nice_title">
-                        <h2>Gallery</h2>
+                        <h2>Upcoming Attractions</h2>
                         <!-- special offer start -->
                         <!-- <div class="special_offer_main">
                             <div class="container">
@@ -304,12 +304,12 @@
                                                                       <div class="carousel-inner" role="listbox">
                                                                         <div class="item active">
                                                                           <div class="single_item" style="">
-                                                                            <img src="img/gallary/gallery-DELUXX1-848X516.jpg" alt="">
+                                                                            <img src="img/room/cS-54.jpg" alt="">
                                                                           </div>
                                                                         </div>
                                                                         <div class="item">
                                                                           <div class="single_item" style="">
-                                                                            <img src="img/gallary/GALLERY-DELUXX2-848X516.jpg" alt="">
+                                                                            <img src="img/lightslider-img/cS-55.jpg" alt="">
                                                                           </div>
                                                                         </div>
                                                                       </div>
@@ -332,9 +332,9 @@
                                                                     <div class="single_room_wrapper clearfix">
                                                                         <div class="room_wrapper">
                                                                             <div class="dif_room_media">
-                                                                                <a href="img/gallary/gallery--DELUX-1-360X180.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                                <a href="img/gallery-four.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                                    <img alt="img" src="img/gallary/gallery--DELUX-1-360X180.jpg" >
+                                                                                    <img alt="img" src="img/gallery-four.jpg" >
                                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                                 </figure>
                                                                                 </a>
@@ -346,9 +346,9 @@
                                                                         <div class="single_room_wrapper clearfix">
                                                                             <div class="room_wrapper">
                                                                                 <div class="dif_room_media">
-                                                                                    <a href="img/gallary/gallery-DELUX-2-360X180.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                                    <a href="img/gallery-four.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                                     <figure class="uk-overlay uk-overlay-hover">
-                                                                                        <img alt="img" src="img/gallary/gallery-DELUX-2-360X180.jpg" >
+                                                                                        <img alt="img" src="img/gallery-five.jpg" >
                                                                                         <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                                     </figure>
                                                                                     </a>
@@ -364,9 +364,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/room/delux.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-eight.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/room/delux.png" >
+                                                                    <img alt="img" src="img/room-image-eight.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -378,9 +378,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/room/delux1.jpeg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-seventeen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/room/delux1.jpeg" >
+                                                                    <img alt="img" src="img/room-image-seventeen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -392,9 +392,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/room/deluxbathroom.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-sixteen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/room/deluxbathroom.png" >
+                                                                    <img alt="img" src="img/room-image-sixteen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -406,9 +406,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/room/d2.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-fifteen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/room/d2.jpg" >
+                                                                    <img alt="img" src="img/room-image-fifteen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -416,10 +416,62 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                
-                                                
-                                                
-                                                
+                                                <div class="col-lg-3 col-md-3 col-sm-3">
+                                                    <div class="single_room_wrapper clearfix">
+                                                        <div class="room_wrapper">
+                                                            <div class="room_media">
+                                                                <a href="img/room-image-fourteen.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <figure class="uk-overlay uk-overlay-hover">
+                                                                    <img alt="img" src="img/room-image-fourteen.jpg" >
+                                                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
+                                                                </figure>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-3 col-md-3 col-sm-3">
+                                                    <div class="single_room_wrapper clearfix">
+                                                        <div class="room_wrapper">
+                                                            <div class="room_media">
+                                                                <a href="img/room-image-seven.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <figure class="uk-overlay uk-overlay-hover">
+                                                                    <img alt="img" src="img/room-image-seven.png" >
+                                                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
+                                                                </figure>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-3 col-md-3 col-sm-3">
+                                                    <div class="single_room_wrapper clearfix">
+                                                        <div class="room_wrapper">
+                                                            <div class="room_media">
+                                                                <a href="img/room-image-twelve.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <figure class="uk-overlay uk-overlay-hover">
+                                                                    <img alt="img" src="img/room-image-twelve.jpg" >
+                                                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
+                                                                </figure>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-3 col-md-3 col-sm-3">
+                                                    <div class="single_room_wrapper clearfix">
+                                                        <div class="room_wrapper">
+                                                            <div class="room_media">
+                                                                <a href="img/room-image-ten.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <figure class="uk-overlay uk-overlay-hover">
+                                                                    <img alt="img" src="img/room-image-ten.jpg" >
+                                                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
+                                                                </figure>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                                 <!-- start pagination -->
                                                
                                                 <!-- end pagination -->
@@ -437,9 +489,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-SUIT2-263X187.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-eight.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-SUIT2-263X187.jpg" >
+                                                                    <img alt="img" src="img/room-image-eight.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -451,9 +503,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-SUIT2-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-nine.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-SUIT2-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-nine.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -465,9 +517,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-SUIT3-263X187.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-ten.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-SUIT3-263X187.jpg" >
+                                                                    <img alt="img" src="img/room-image-ten.jpg" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -479,9 +531,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-SUIT4-263X187.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-eleven.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-SUIT4-263X187.jpg" >
+                                                                    <img alt="img" src="img/room-image-eleven.jpg" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -490,7 +542,27 @@
                                                     </div>
                                                 </div>
                                                 <!-- start pagination -->
-                                         
+                                                <div class="col-lg-12 col-md-12">
+                                                    <nav class="text-center margin-top-65 margin-bottom-75">
+                                                      <ul class="pagination">
+                                                        <li>
+                                                          <a href="#" aria-label="Previous">
+                                                            <i class="fa fa-angle-left"></i>prev
+                                                          </a>
+                                                        </li>
+                                                        <li><a href="#">1</a></li>
+                                                        <li><a href="#">2</a></li>
+                                                        <li><a href="#">3</a></li>
+                                                        <li><a href="#">4</a></li>
+                                                        <li><a href="#">5</a></li>
+                                                        <li>
+                                                          <a href="#" aria-label="Next">next
+                                                            <i class="fa fa-angle-right"></i>
+                                                          </a>
+                                                        </li>
+                                                      </ul>
+                                                    </nav>
+                                                </div>
                                                 <!-- end pagination -->
                                             </div>
 
@@ -507,9 +579,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RESTO1-263-187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-twelve.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RESTO1-263-187.png" >
+                                                                    <img alt="img" src="img/room-image-twelve.jpg" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -521,9 +593,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RESTO1-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-thirteen.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RESTO1-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-thirteen.jpg" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -535,9 +607,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RESTO2-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-fourteen.jpg" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RESTO2-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-fourteen.jpg" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -549,9 +621,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RESTO4-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-fifteen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RESTO4-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-fifteen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -560,7 +632,27 @@
                                                     </div>
                                                 </div>
                                                 <!-- start pagination -->
-                                         
+                                                <div class="col-lg-12 col-md-12">
+                                                    <nav class="text-center margin-top-65 margin-bottom-75">
+                                                      <ul class="pagination">
+                                                        <li>
+                                                          <a href="#" aria-label="Previous">
+                                                            <i class="fa fa-angle-left"></i>prev
+                                                          </a>
+                                                        </li>
+                                                        <li><a href="#">1</a></li>
+                                                        <li><a href="#">2</a></li>
+                                                        <li><a href="#">3</a></li>
+                                                        <li><a href="#">4</a></li>
+                                                        <li><a href="#">5</a></li>
+                                                        <li>
+                                                          <a href="#" aria-label="Next">next
+                                                            <i class="fa fa-angle-right"></i>
+                                                          </a>
+                                                        </li>
+                                                      </ul>
+                                                    </nav>
+                                                </div>
                                                 <!-- end pagination -->
                                             </div>
                                         </div>
@@ -576,9 +668,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RECEPT1-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-sixteen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RECEPT1-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-sixteen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -590,9 +682,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RECEPT-2-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-seventeen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RECEPT-2-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-seventeen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -604,9 +696,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RECEPT3--263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-eighteen.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RECEPT3--263X187.png" >
+                                                                    <img alt="img" src="img/room-image-eighteen.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -618,9 +710,9 @@
                                                     <div class="single_room_wrapper clearfix">
                                                         <div class="room_wrapper">
                                                             <div class="room_media">
-                                                                <a href="img/gallary/gallery-RECEPT4-263X187.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
+                                                                <a href="img/room-image-nine.png" data-uk-lightbox="{group:'group1'}" title="Gallery">
                                                                 <figure class="uk-overlay uk-overlay-hover">
-                                                                    <img alt="img" src="img/gallary/gallery-RECEPT4-263X187.png" >
+                                                                    <img alt="img" src="img/room-image-nine.png" >
                                                                     <div class="uk-overlay-panel uk-overlay-background uk-overlay-icon"></div>
                                                                 </figure>
                                                                 </a>
@@ -629,7 +721,27 @@
                                                     </div>
                                                 </div>
                                                 <!-- start pagination -->
-                                                
+                                                <div class="col-lg-12 col-md-12">
+                                                    <nav class="text-center margin-top-65 margin-bottom-75">
+                                                      <ul class="pagination">
+                                                        <li>
+                                                          <a href="#" aria-label="Previous">
+                                                            <i class="fa fa-angle-left"></i>prev
+                                                          </a>
+                                                        </li>
+                                                        <li class="active"><a href="#">1</a></li>
+                                                        <li><a href="#">2</a></li>
+                                                        <li><a href="#">3</a></li>
+                                                        <li><a href="#">4</a></li>
+                                                        <li><a href="#">5</a></li>
+                                                        <li>
+                                                          <a href="#" aria-label="Next">next
+                                                            <i class="fa fa-angle-right"></i>
+                                                          </a>
+                                                        </li>
+                                                      </ul>
+                                                    </nav>
+                                                </div>
                                                 <!-- end pagination -->
                                             </div>
                                         </div>
@@ -787,27 +899,7 @@
                                                     </div>
                                                 </div>
                                                 <!-- start pagination -->
-                                                <div class="col-lg-12 col-md-12">
-                                                    <nav class="text-center margin-top-65 margin-bottom-75">
-                                                      <ul class="pagination">
-                                                        <li>
-                                                          <a href="#" aria-label="Previous">
-                                                            <i class="fa fa-angle-left"></i>prev
-                                                          </a>
-                                                        </li>
-                                                        <li><a href="#">1</a></li>
-                                                        <li><a href="#">2</a></li>
-                                                        <li><a href="#">3</a></li>
-                                                        <li><a href="#">4</a></li>
-                                                        <li><a href="#">5</a></li>
-                                                        <li>
-                                                          <a href="#" aria-label="Next">next
-                                                            <i class="fa fa-angle-right"></i>
-                                                          </a>
-                                                        </li>
-                                                      </ul>
-                                                    </nav>
-                                                </div>
+                                               
                                                 <!-- end pagination -->
                                             </div>
                                         </div>

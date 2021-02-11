@@ -41,25 +41,21 @@
                                           Amenities
                                         </a>
                                         <ul id="menu1" class="dropdown-menu" role="menu">
-                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="index-two.html">Upcoming Attractions</a></li>
+                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="amenities.php">Existing Amenities</a></li>
+                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="upcomin.php">Upcoming Attractions</a></li>
                                         </ul>
                                     </li>     
                                    
                                     <li><a href="dining.php">Dining</a></li>
-                                    <li><a href="gallery.php">Packages</a></li>
+                                    <li><a href=".php">Packages</a></li>
                                        <li><a href="gallery.php">Gallary</a></li>
-                                        <li role="presentation" class="blink" class="dropdown">
-                                        <a id="drop2" href="btable.php" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false" style="color: red">
+
+                                        <li  class="blink" >
+                                        <a href="btable.php"style="color: red">
                                       Reserve A Table
                                         </a>
                                        
-                                        <ul id="menu2" class="dropdown-menu" role="menu">
-                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="dining.php">Dining</a></li>
-                                          <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="booking.html">Booking</a></li>
-                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="room-details.html">Room Details</a></li>
-                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="staff.html">Our Staff</a></li>
-                                          <li role="presentation"><a role="menuitem" tabindex="-1" href="404.html">404 Page</a></li> -->
-                                        </ul>
+
                                     </li>
                                         <li><a href="contact.php">Contact</a></li>
                                   </ul>

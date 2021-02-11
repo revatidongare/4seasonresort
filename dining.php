@@ -14,7 +14,7 @@
         <!-- end header -->
         
         <!-- start breadcrumb -->
-        <section class="breadcrumb_main_area margin-bottom-80" style="margin: auto">
+        <section class="breadcrumb_main_ar margin-bottom-80" style="margin: auto">
             <div class="container-fluid">
                 <div class="row">
                     <div class="breadcrumb_main nice_title">

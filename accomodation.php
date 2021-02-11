@@ -224,7 +224,7 @@
                                             <div class="single_room_wrapper clearfix padding-bottom-30">
                                                 <figure class="uk-overlay uk-overlay-hover">
                                                     <div class="room_media">
-                                                        <a href="#"><img src="img/room/room3.png" alt=""></a>
+                                                        <a href="#"><img src="img/gallary/gallery-SUIT4-263X187.jpg" alt=""></a>
                                                     </div>
                                                     <div class="room_title border-bottom-whitesmoke clearfix">
                                                             <div class="left_room_title floatleft">

@@ -1194,14 +1194,32 @@ body#gallery_page .breadcrumb_main_area, body#booking_page .breadcrumb_main_area
 	background: url(img/dining/resto-6IMAGES-1970X734.jpg) no-repeat center center / cover #000000;
 	position: relative;
 }
-body#gallery_page .breadcrumb_main_areaa, body#booking_page .breadcrumb_main_areaa, body#blog_page .breadcrumb_main_areaa{
-	background: url(img/facility/FP-slider-1.jpg) no-repeat center center / cover #000000;
-	position: relative;
-}
-body#gallery_page .breadcrumb_main_area, body#booking_page .breadcrumb_main_area, body#blog_page .breadcrumb_main_area{
+body#gallery_page .breadcrumb_main_area3, body#booking_page .breadcrumb_main_area3, body#blog_page .breadcrumb_main_area3{
 	background: url(img/gallary/reserveatabled.jpg) no-repeat center center / cover #000000;
 	position: relative;
 }
+/*body#gallery_page .breadcrumb_main_area, body#booking_page .breadcrumb_main_area, body#blog_page .breadcrumb_main_area{
+	background: url(img/gallary/reserveatabled.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}*/
+body#gallery_page .breadcrumb_main_areaaaa, body#booking_page .breadcrumb_main_areaaaa, body#blog_page .breadcrumb_main_areaaaa{
+	background: url(img/rev-slider/fb-slider-4.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}
+body#gallery_page .breadcrumb_main_ar, body#booking_page .breadcrumb_main_ar, body#blog_page .breadcrumb_main_ar{
+	background: url(img/gallary/reserveatabled.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}
+body#gallery_page .breadcrumb_main_ayea, body#booking_page .breadcrumb_main_ayea, body#blog_page .breadcrumb_main_ayea{
+	background: url(img/facility/istockphoto-149409557-612x612.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}
+body#gallery_page .breadcrumb_main_arr, body#booking_page .breadcrumb_main_arr, body#blog_page .breadcrumb_main_arr{
+	background: url(img/gallary/reserveatabled.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}
+
+
 body#gallery_page .accomodation_single_room .room_media{
 	margin-bottom: 30px;
 }

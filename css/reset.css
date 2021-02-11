@@ -920,7 +920,31 @@ h6{
   right: 0;
   top: 0;
 }
-
+.breadcrumb_main_areaaaa {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+.breadcrumb_main_ar {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+.breadcrumb_main_ayea {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+.breadcrumb_main_area3 {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+.breadcrumb_main_arr {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
 
 /* ------------------------------------
          end breadcrumb styles

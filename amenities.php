@@ -14,7 +14,7 @@
         <!-- end header -->
         
         <!-- start breadcrumb -->
-        <section class="breadcrumb_main_areaa margin-bottom-80">
+        <section class="breadcrumb_main_arr margin-bottom-80">
             <div class="container-fluid">
                 <div class="row">
                     <div class="breadcrumb_main nice_titlee">
@@ -47,7 +47,7 @@
                                         <div class="row">
                                             <div class="co-lg-5 col-md-5 col-sm-6">
                                                 <div class="single-tab-image">
-                                                    <a href="#"><img src="img/facility/recep.jpeg" alt=""></a>
+                                                    <a href="#"><img src="img/facility/gazeebo.jpg" alt=""></a>
                                                 </div>
                                             </div>
                                             <div class="co-lg-7 col-md-7 col-sm-6">
