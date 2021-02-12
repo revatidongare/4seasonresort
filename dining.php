@@ -357,7 +357,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="email_us clearfix">
                             <h6>Email us</h6>
-                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:20px;">     4seasonsresortsmulshi@gmail.com</i></a>
+                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:17px;">     4seasonsresortsmulshi@gmail.com</i></a>
                         </div>
                     </div>
                    

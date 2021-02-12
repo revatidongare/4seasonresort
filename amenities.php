@@ -18,7 +18,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="breadcrumb_main nice_titlee">
-                        <h2>Amenities</h2>
+                        <h2>Amenities             </h2>
                         <!-- special offer start -->
                         <!-- <div class="special_offer_main">
                             <div class="container">
@@ -271,7 +271,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="email_us clearfix">
                             <h6>Email us</h6>
-                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:20px;">     4seasonsresortsmulshi@gmail.com</i></a>
+                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:17px;">     4seasonsresortsmulshi@gmail.com</i></a>
                         </div>
                     </div>
                    

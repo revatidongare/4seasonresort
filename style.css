@@ -577,7 +577,7 @@ body#home_two .select_room .room_rent > p > span, body#accomodation_page .select
 	background: #eeefed none repeat scroll 0 0;
 	border: medium none;
 	border-radius: 0;
-	height: 100px;
+	height: 70px;
 	margin: 0;
 	width: 129px;
 	text-transform: uppercase;
@@ -1001,7 +1001,11 @@ body#about_us_page .single_staff .social_icons ul li a i, body#staff_page .singl
 -----------------------------------------------------------*/
 
 body#accomodation_page .breadcrumb_main_area, body#contact_us_page .breadcrumb_main_area, body#room_detail_page .breadcrumb_main_area{
-	background: url(img/room/s3.jpg) no-repeat center center / cover #000000;
+	background: url(img/gallary/GALLERY-DELUXX2-848X516.jpg) no-repeat center center / cover #000000;
+	position: relative;
+}
+body#accomodation_page .breadcrumb_main_rrrr, body#contact_us_page .breadcrumb_main_rrrr, body#room_detail_page .breadcrumb_main_rrrr{
+	background: url(img/facility/fb-slider-4.jpg) no-repeat center center / cover #000000;
 	position: relative;
 }
 body#accomodation_page .range_slider span, body#accomodation_page .range_slider label{
@@ -1215,7 +1219,7 @@ body#gallery_page .breadcrumb_main_ayea, body#booking_page .breadcrumb_main_ayea
 	position: relative;
 }
 body#gallery_page .breadcrumb_main_arr, body#booking_page .breadcrumb_main_arr, body#blog_page .breadcrumb_main_arr{
-	background: url(img/gallary/reserveatabled.jpg) no-repeat center center / cover #000000;
+	background: url(img/facility/upcoming.png) no-repeat center center / cover #000000;
 	position: relative;
 }
 

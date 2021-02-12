@@ -74,9 +74,9 @@
                                                 <p>$180<span> / night</span></p>
                                             </div> -->
                                         </div>
-                                        <div class="room_block floatright">
+                                       <!--  <div class="room_block floatright">
                                             <a href="#" class="btn btn-black">Book</a>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div class="room_thumb small_room_thumb">
@@ -90,9 +90,9 @@
                                                 <p>$180<span> / night</span></p>
                                             </div> -->
                                         </div>
-                                        <div class="room_block floatright">
+                                       <!--  <div class="room_block floatright">
                                             <a href="#" class="btn btn-black">Book</a>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -535,7 +535,7 @@
                     <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
                         <div class="email_us clearfix">
                             <h6>Email us</h6>
-                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:20px;">     4seasonsresortsmulshi@gmail.com</i></a>
+                           <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:17px;">     4seasonsresortsmulshi@gmail.com</i></a>
                         </div>
                     </div>
                    

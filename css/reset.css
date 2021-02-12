@@ -431,7 +431,7 @@ h6{
     line-height: 25px;
     margin-bottom: 20px;
     padding-bottom: 30px;
-    left: calc(40% - 60.5px);
+    
     position: relative;
     width: 100%;
 }
@@ -940,11 +940,23 @@ h6{
   text-align: center;
   position: relative;
 }
-.breadcrumb_main_arr {
+.breadcrumb_main_arr{
   overflow: hidden;
   text-align: center;
   position: relative;
 }
+.breadcrumb_main_rr{
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+.breadcrumb_main_rrrr {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+
+
 
 /* ------------------------------------
          end breadcrumb styles

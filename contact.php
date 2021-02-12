@@ -14,7 +14,7 @@
         <!-- end header -->
         
         <!-- start breadcrumb -->
-        <section class="breadcrumb_main_area margin-bottom-80">
+        <section class="breadcrumb_main_rrrr margin-bottom-80">
             <div class="container-fluid">
                 <div class="row">
                     <div class="breadcrumb_main nice_title">
@@ -94,7 +94,7 @@
 
                                     </li>
                                     <li>
-                                         <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:20px;">     4seasonsresortsmulshi@gmail.com</i></a>
+                                         <a href="mailto:4seasonsresortsmulshi@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding-right: 10px;font-size:17px;">     4seasonsresortsmulshi@gmail.com</i></a>
                                     </li>
                                 </ul>
                                 <div class="social_icons clearfix">

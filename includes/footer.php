@@ -46,7 +46,7 @@ Four Seasons Resort Mulshi Pune.</p>
                             <div class="footer_widget">
                                 <h5>We Are Global</h5>
                                 <div class="footer_map">
-                                    <a href="map.php"  target="_blank"><img src="img/gallary/Capture.png" alt=""></a>
+                                    <a href="map.php"  target="_blank"><img src="img/gallary/Capture.PNG" alt=""></a>
                                 </div>
                             </div>
                         </div>
