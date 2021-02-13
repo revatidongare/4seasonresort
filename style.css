@@ -61,7 +61,7 @@ a:hover{
 	color: #16b4ef;
 }
 .mainmenu {
-  padding-top:10px;
+  padding-top:20px;
 }
 .mainmenu ul#nav{
 	margin: 0;
@@ -559,6 +559,11 @@ body#home_two .select_room .room_rent > p > span, body#accomodation_page .select
 
 .hotel_facilities_areaa{
 	background: url(img/facility/ROMANTIC-DINNER-DATE.jpg) no-repeat fixed 0 0;
+	background-size: cover;
+	background-position: fixed;
+}
+.hotel_facilities_are{
+	background: url(img/facility/wp3893109.jpg) no-repeat fixed 0 0;
 	background-size: cover;
 	background-position: fixed;
 }

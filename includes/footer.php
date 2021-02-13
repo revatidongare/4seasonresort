@@ -28,13 +28,13 @@ Four Seasons Resort Mulshi Pune.</p>
                                             <li><a href="index.php">Home</a></li>
                                             <li><a href="dining.php">Dining</a></li>
                                             <li><a href="amenities.php">Amenities</a></li>
-                                            <li><a href="gallary.php">Gallery</a></li>
+                                            <li><a href="gallery.php">Gallery</a></li>
                                         </ul>  
                                     </div>
                                     <div class="col-lg-6 col-md-6 sol-sm-6">
                                         <ul>
                                             <li><a href="accomodation.php">Accommodation</a></li>
-                                            <li><a href="btable">Book Table</a></li>
+                                            <li><a href="btable.php">Book Table</a></li>
                                             <li><a href="packages.php">Packages</a></li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>

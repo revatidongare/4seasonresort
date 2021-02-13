@@ -78,7 +78,7 @@
             </div>
         </section>
         <!-- start other detect room section -->
-         <section class="hotel_facilities_area margin-top-115 margin-bottom-100">
+         <section class="hotel_facilities_are margin-top-115 margin-bottom-100">
             <div class="container">
                 <div class="hotel_facilities">
                    <!--  <div class="section_title nice_title content-center">
@@ -90,7 +90,7 @@
                             <!-- Nav tabs -->
                             <ul class="nav nav-tabs" role="tablist">
                                 <li role="presentation" class="active">
-                                    <a href="#restaurant" aria-controls="restaurant" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-eleven.png" alt="restaurant"> --><span>Nature view</span></a>
+                                    <a href="#restaurant" aria-controls="restaurant" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-eleven.png" alt="restaurant"> --><span>Nature Walk</span></a>
                                 </li>
                                 <li role="presentation">
                                     <a href="#sports-club" aria-controls="sports-club" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-seven.png" alt="sports-club"> --><span>pool table</span></a>
@@ -103,6 +103,50 @@
                                 </li>
                                 <li role="presentation">
                                     <a href="#gym" aria-controls="gym" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>tent house</span></a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="#barbe" aria-controls="barbe" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Live Barbeque
+                                </span></a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="#hall" aria-controls="hall" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Banquet Hall
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#wedding" aria-controls="wedding" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Destination Wedding
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#Licensed" aria-controls="Licensed" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Licensed Bar
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#fire" aria-controls="fire" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Camp Fire
+
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#dart" aria-controls="dart" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Dart Board
+
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#rifle" aria-controls="rifle" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Rifle Shooting
+
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#Archery" aria-controls="Archery" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Archery
+
+                                </span></a>
+                                </li>
+                                 <li role="presentation">
+                                    <a href="#bird" aria-controls="bird" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Bird Watcing
+                                </span></a>
+                                </li>
+                                  <li role="presentation">
+                                    <a href="#visit" aria-controls="visit" role="tab" data-toggle="tab"><!-- <img src="img/home-facilities-icon-ten.png" alt="gym"> --><span>Mulshi Dam Visit
+                                </span></a>
                                 </li>
                             </ul>                           
 
@@ -120,12 +164,15 @@
                                             <div class="co-lg-7 col-md-7 col-sm-6">
                                                 <div class="single-tab-details">
                                                     <h6>The world class</h6>
-                                                    <h3>nature view</h3>
+                                                    <h3>nature walk</h3>
                                                     <p>
-                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                        “Oh, how can I put into words the joys of a walk over country such as this; 
                                                     </p>
                                                     <p>
-                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                        The scenes that delight the eyes, the blessed peace of mind, the sheer exuberance which fills your soul as you tread the firm turf? 
+                                                    </p>
+                                                    <p>
+                                                        This is something to be lived, not read about. “
                                                     </p>
                                                    
                                                 </div>
@@ -146,10 +193,13 @@
                                                     <h6>The world class</h6>
                                                     <h3>pool table</h3>
                                                     <p>
-                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                        Be a champion: someone who gets up even when he can't.
                                                     </p>
                                                     <p>
-                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                       We cannot become what we want to be by remaining what we are.
+                                                    </p>
+                                                    <p>
+                                                        Don't limit your challenges. Challenge your limits.
                                                     </p>
                                                    
                                                 </div>
@@ -217,6 +267,246 @@
                                                 <div class="single-tab-details">
                                                     <h6>The world class</h6>
                                                     <h3>tent house</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="barbe">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/barbecue-barbecue-grill-blur-burn.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Live Barbeque</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="hall">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/banquet-hall-other-function-facility-set-fine-dining-34847108.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Banquet Hall</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="wedding">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/10231-c-1602530501.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Destination Wedding</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="Licensed">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/pexels-photo-1283219.jpeg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Licensed Bar</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="fire">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/2XIvNx.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Camp Fire</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="dart">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/218-2186165_darts-hd-wallpaper.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Dart Board</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="rifle">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/photo-1482649671545-bc53dcf1ad7c.jfif" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Rifle Shooting</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="Archery">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/archery-range.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Archery</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="bird">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/1461788511409_rs.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Bird Watcing</h3>
+                                                    <p>
+                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
+                                                    </p>
+                                                    <p>
+                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="visit">
+                                    <div class="single-tab-content">
+                                        <div class="row">
+                                            <div class="co-lg-5 col-md-5">
+                                                <div class="single-tab-image">
+                                                    <a href="#"><img src="img/facility/jpg.jfif" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="co-lg-7 col-md-7">
+                                                <div class="single-tab-details">
+                                                    <h6>The world class</h6>
+                                                    <h3>Mulshi Dam Visit</h3>
                                                     <p>
                                                         Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
                                                     </p>
