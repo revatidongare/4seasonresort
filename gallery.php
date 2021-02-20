@@ -48,7 +48,7 @@
                                     <ul class="nav nav-tabs margin-bottom-60" role="tablist">
                                         <li role="presentation" class="active"><a href="#all" aria-controls="all" role="tab" data-toggle="tab">all</a></li>
                                         <li role="presentation"><a href="#deluxe_room" aria-controls="deluxe_room" role="tab" data-toggle="tab">deluxe room</a></li>
-                                        <li role="presentation"><a href="#single_bedroom" aria-controls="single_bedroom" role="tab" data-toggle="tab">suite bedroom</a></li>
+                                        <li role="presentation"><a href="#single_bedroom" aria-controls="single_bedroom" role="tab" data-toggle="tab">suite room</a></li>
                                         <li role="presentation"><a href="#double_bedroom" aria-controls="double_bedroom" role="tab" data-toggle="tab">RESTAURANT</a></li>
                                         <li role="presentation"><a href="#classic_room" aria-controls="classic_room" role="tab" data-toggle="tab">RECEPTION</a></li>
                                        <!--  <li role="presentation"><a href="#exe_room" aria-controls="exe_room" role="tab" data-toggle="tab">exe room</a></li>

@@ -51,10 +51,10 @@
                     <div class="contact_mail">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="send_mail">
-                                <div class="section_title margin-bottom-40">
+                               <!--  <div class="section_title margin-bottom-40">
                                     <h4>send us an email</h4>
-                                </div>
-                                <form action="back.php" method="post">
+                                </div> -->
+                                <form action="cback.php" method="post">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6">
                                             <input type="text" placeholder="First Name *" id="name" name="name"  required>
@@ -63,7 +63,7 @@
                                             <input type="text" placeholder="Last Name *" id="lname" required name="lname">
                                         </div>
                                         <div class="col-lg-6 col-md-6">
-                                            <input  type="text" placeholder="Your Email Id *" id="email" required name="email"/>
+                                            <input  type="text" placeholder="Email Address *" id="email" required name="email"/>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <input  type="text" placeholder="Phone Number *" id="cnumber"  required name="cnumber"/>
@@ -162,3 +162,15 @@
 		
     </body>
 </html>
+<?php
+  // include 'session.php'; 
+    if(isset($_GET['p'])) {      
+            if($_GET['p'] == 3){ ?>
+            <script>swal("Thank you for contacting 4seasons Resorts mulshi. We will contact you shortly.", {
+  buttons: false,
+  timer: 3000,
+
+});</script>
+            <!--echo '<script> alert(" Successfully Logout..")</script>';-->
+<?php }
+} ?>

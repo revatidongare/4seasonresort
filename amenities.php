@@ -55,13 +55,13 @@
                                                     <!-- <h6>The world class</h6> -->
                                                     <h3>An exciting luxurious escape !!</h3>
                                                     <p>
-                                                        To add to. the never-ending list of impeccable service is something for your entertainment.  
+                                                        This resort has lot to offer when it comes to creating ever lasting memories with your loved ones  
                                                     </p>
                                                     <p>
-                                                       There are interesting indoor games in case you want to unwind in the hotel itself.
+                                                      Be it indoor games like Chess,Carrom,Table Tennis or Snooker OR be it Archery,Rifle Shooting etc they have it all
                                                     </p>
                                                     <p>
-                                                    A perfect combination to spend time just the way you envisaged. </p>
+                                                    A perfect combination to spend time just the way you envisaged and much more... </p>
                                                     <div class="our_services">
                                                         <!-- <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
                                                         <a href="#">service charge : $15</a> -->
@@ -92,9 +92,9 @@
                                 <li role="presentation" class="active">
                                     <a href="#restaurant" aria-controls="restaurant" role="tab" data-toggle="tab"><img src="img/home-facilities-icon-eleven.png" alt="restaurant"><span>Dining</span></a>
                                 </li>
-                                <li role="presentation">
+                               <!--  <li role="presentation">
                                     <a href="#sports-club" aria-controls="sports-club" role="tab" data-toggle="tab"><img src="img/home-facilities-icon-seven.png" alt="sports-club"><span>sports-club</span></a>
-                                </li>
+                                </li> -->
                                 <li role="presentation">
                                     <a href="#pick-up" aria-controls="pick-up" role="tab" data-toggle="tab"><img src="img/facility/open-lawn-icon.png" alt="pick-up"><span>Open Lawn</span></a>
                                 </li>
@@ -136,33 +136,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div role="tabpanel" class="tab-pane" id="sports-club">
-                                    <div class="single-tab-content">
-                                        <div class="row">
-                                            <div class="co-lg-5 col-md-5">
-                                                <div class="single-tab-image">
-                                                    <a href="#"><img src="img/facility/badminton.jpg" alt=""></a>
-                                                </div>
-                                            </div>
-                                            <div class="co-lg-7 col-md-7">
-                                                <div class="single-tab-details">
-                                                    <h6>The world class</h6>
-                                                    <h3>Sports Club</h3>
-                                                    <p>
-                                                        Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. Phasellus accumsan urna vitae molestie interdum. Nam sed placerat libero, non eleifend dolor.
-                                                    </p>
-                                                    <p>
-                                                        Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
-                                                    </p>
-                                                   <!--  <div class="our_services">
-                                                        <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
-                                                        <a href="#">service charge : $15</a>
-                                                    </div> -->
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                              
                                 <div role="tabpanel" class="tab-pane" id="pick-up">
                                     <div class="single-tab-content">
                                         <div class="row">

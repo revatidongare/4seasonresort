@@ -112,7 +112,7 @@
                                 <img src="img/rev-slider/fp-slider-2.jpg" alt="slide" >
                                 <div class="tp-caption large_black sfr" data-x="105" data-y="197" data-speed="1200" data-start="1100" data-easing="easeInOutBack"
                                     style="font-family: 'Playfair Display', serif; font-size: 35px;color: #131e2a; margin-bottom: 23px; text-transform: uppercase; line-height: 40px;">
-                                     We invite you to try 
+                                     We invite you to try an
                                 </div>
                                 <div class="tp-caption large_black sfr" data-x="105" data-y="255" data-speed="1500" data-start="1400" data-easing="easeInOutBack"
                                     style="font-family: 'Playfair Display', serif; font-size: 35px;color: #131e2a; margin-bottom: 23px; text-transform: uppercase; line-height: 40px;">
@@ -142,7 +142,7 @@
                                 <img src="img/rev-slider/fb-slider-4.jpg" alt="slide" >
                                 <div class="tp-caption large_black sfr" data-x="105" data-y="197" data-speed="1200" data-start="1100" data-easing="easeInOutBack"
                                     style="font-family: 'Playfair Display', serif; font-size: 35px;color: #131e2a; margin-bottom: 23px; text-transform: uppercase; line-height: 40px;">
-                                   We invite you to try
+                                   We invite you to try an
                             
                                 </div>
                                 <div class="tp-caption large_black sfr" data-x="105" data-y="255" data-speed="1500" data-start="1400" data-easing="easeInOutBack"
@@ -171,7 +171,7 @@ At Mulshi, Pune!</h3>
                         </div>
                         <div class="section_description">
                             <p> Gracious hospitality awaits at Four Seasons Resort Mulshi, a deluxe city Resort renowned for superb comfort, convenience and care. The Resort sits in nearby Mulshi dam, Pune location.
-                            <br>Surrender yourself to the charm of nature’s excellence and tranquility in the advantage of impeccable flawlessness! Remain in any of our extraordinarily created rooms and appreciate extravagance style. </p>
+                            <br>Surrender yourself to the charm of nature’s excellence and tranquility in the advantage of impeccable flawlessness! Remain in any of our extraordinarily created rooms and appreciate its extravagance style. </p>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 ">
@@ -196,7 +196,7 @@ At Mulshi, Pune!</h3>
                                                     Deluxe Rooms are comfortable. Fixed with all the modern amenities. 
                                                 </p>
                                                 <p>
-                                                   Relax in comfort, take in nature’s beauty, and get pampered by its hospitable staff.
+                                                   Relax in comfort enjoy the nature’s beauty and get pampered by its courteous staff.
                                                 </p>
                                                 <div class="single_room_cost clearfix">
                                                     <div class="floatleft">
@@ -219,7 +219,7 @@ At Mulshi, Pune!</h3>
                                         </div>
                                         <div class="room_title border-bottom-whitesmoke clearfix">
                                                 <div class="left_room_title floatleft">
-                                                    <h6>Suite Rooms</h6>
+                                                    <h6>Suite Room</h6>
                                                    <!--  <p>$150/ <span>night</span></p> -->
                                                 </div>
                                                 <div class="left_room_title floatright">
@@ -230,7 +230,7 @@ At Mulshi, Pune!</h3>
                                             <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
                                                 <h5>Suite Rooms</h5>
                                                 <p>
-                                                    Suite Rooms are spacious and have a beautiful view of the lovely abundance. 
+                                                    Suite Rooms are spacious and have a beautiful view of the lovely abundance of nature. 
                                                 </p>
                                                 <p>
                                                    It’s a very cozy and an exclusive suite giving you a superior experience.
@@ -343,9 +343,9 @@ At Mulshi, Pune!</h3>
                                 <li role="presentation" class="active">
                                     <a href="#restaurant" aria-controls="restaurant" role="tab" data-toggle="tab"><img src="img/home-facilities-icon-eleven.png" alt="restaurant"><span>Dining</span></a>
                                 </li>
-                                <li role="presentation">
+                               <!--  <li role="presentation">
                                     <a href="#sports-club" aria-controls="sports-club" role="tab" data-toggle="tab"><img src="img/home-facilities-icon-seven.png" alt="sports-club"><span>sports-club</span></a>
-                                </li>
+                                </li> -->
                                 <li role="presentation">
                                     <a href="#pick-up" aria-controls="pick-up" role="tab" data-toggle="tab"><img src="img/facility/open-lawn-icon.png" alt="pick-up"><span>Open Lawn</span></a>
                                 </li>
@@ -373,10 +373,10 @@ At Mulshi, Pune!</h3>
                                                     <h6>The world class</h6>
                                                     <h3>Restaurant & Mezzanine</h3>
                                                     <p>
-                                                        Indulge in the delicious aromas of different cuisine defined by our signature bespoke service. 
+                                                        Indulge in the delicious aromas of different cuisine defined by our signature chefs. 
                                                     </p>
                                                     <p>
-                                                        A distinct culinary experience which range from casual to fine dining.
+                                                        A distinct culinary experience which ranges from casual to fine dining.
                                                     </p>
                                                     <div class="our_services">
                                                         <!-- <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
@@ -387,7 +387,7 @@ At Mulshi, Pune!</h3>
                                         </div>
                                     </div>
                                 </div>
-                                <div role="tabpanel" class="tab-pane" id="sports-club">
+                               <!--  <div role="tabpanel" class="tab-pane" id="sports-club">
                                     <div class="single-tab-content">
                                         <div class="row">
                                             <div class="co-lg-5 col-md-5">
@@ -405,15 +405,12 @@ At Mulshi, Pune!</h3>
                                                     <p>
                                                         Cras ac justo et augue suscipit euismod vel eget lectus. Proin vehicula nunc arcu, pulvinar accumsan nulla porta vel. Vivamus malesuada vitae sem ac pellentesque.
                                                     </p>
-                                                   <!--  <div class="our_services">
-                                                        <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
-                                                        <a href="#">service charge : $15</a>
-                                                    </div> -->
+                                                   
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div role="tabpanel" class="tab-pane" id="pick-up">
                                     <div class="single-tab-content">
                                         <div class="row">
@@ -454,7 +451,7 @@ At Mulshi, Pune!</h3>
                                                     <h6>The world class</h6>
                                                     <h3>Children Play area</h3>
                                                     <p>
-                                                        When you choose to holiday at Four Seasons Resort, Mulshi with your family, we ensure that your children have the time of their lives. At their very own private abode, they have everything they need to have an exciting and unforgettable holiday.
+                                                        When you choose to holiday at Four Seasons Resort, Mulshi with your family, we ensure that your children have the time of their lives.
                                                     </p>
                                                     <p>
                                                         At their very own private abode, they have everything they need to have an exciting and unforgettable holiday.
@@ -481,7 +478,7 @@ At Mulshi, Pune!</h3>
                                                     <h6>The world class</h6>
                                                     <h3>Gazebo</h3>
                                                     <p>
-                                                        Resort has special facilities for you to hold your events. The lawn is large enough to be converted into any type of function you want to hold. Have an engagement party or an official event the impeccable combination of efficient service and traditional hospitality makes all the occasion outstanding.
+                                                        Resort has special facilities for you to hold your events. The lawn is large enough to be converted into any type of function you want to hold. 
                                                     </p>
                                                     <p>
                                                         Have an engagement party or an official event the impeccable combination of efficient service and traditional hospitality makes all the occasion outstanding.
@@ -562,7 +559,7 @@ At Mulshi, Pune!</h3>
                                                         This is the moment of re-ignite old romances.reliving memories and cherishing a moment.
                                                     </p>
                                                     <p>
-                                                       The hotel has a special honeymoon and aniversary packags for couples
+                                                       The hotel has a special honeymoon and anniversary packages for couples.
                                                     </p>
                                                     <div class="our_services">
                                                         <!-- <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
@@ -689,7 +686,7 @@ Mulshi, Pune</h5>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                         <div class="customer_says">
                             <div class="section_title margin-bottom-50">
-                                <h5>Customer Says</h5>
+                                <h5>Customer Testimonial</h5>
                             </div>
                             <div class="section_description">
                                 <div id="customer_says_slider" class="carousel slide" data-ride="carousel" data-pause="none">

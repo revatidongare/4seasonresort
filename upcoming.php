@@ -88,7 +88,7 @@
                                             <figure class="uk-overlay uk-overlay-hover">
                                                 <img src="img/upcoming/Selfie-point-263x263.jpg" alt="img">
                                                 <div class="uk-overlay-panel uk-overlay-background single_staff_details">
-                                                    <h6>selfi point</h6>
+                                                    <h6>selfie point</h6>
                                                   
                                                     <p style="color: #eae7e7">
                                                         <b>Selfie Point...</b>Best memories of life are always with your loved ones...click with your bestie & pamper yourself in this beautiful world...
@@ -191,7 +191,7 @@
                                       <div class="col-lg-3 col-md-3 col-sm-3">
                                         <div class="single_staff">
                                             <figure class="uk-overlay uk-overlay-hover">
-                                                <img src="img/upcoming/Camp-fire-263x263.jpg" alt="img">
+                                                <img src="img/upcoming/CAMPFIRE-250X250.png" alt="img">
                                                 <div class="uk-overlay-panel uk-overlay-background single_staff_details">
                                                     <h6>Camp Fire</h6>
                                                 

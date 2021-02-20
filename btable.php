@@ -87,7 +87,7 @@
                                             </div>
                                             <div class="row">
                                                 
-                                                <div class="form-group col-lg-4 col-md-4 col-sm-4 icon_arrow">
+                                                <div class="form-group col-lg-6 col-md-6 col-sm-6 icon_arrow">
                                                     <div class="input-group">
                                                         <select class="form-control" name="guest" id="guest" style="  border: 1px solid #8e8787; color: black">
                                                           <option selected="selected" disabled="disabled">Number Of Guest</option>
@@ -104,7 +104,7 @@
                                                         </select>               
                                                     </div>
                                                 </div>
-                                                <div class="form-group col-lg-4 col-md-4 col-sm-4 icon_arrow">
+                                              <!--   <div class="form-group col-lg-4 col-md-4 col-sm-4 icon_arrow">
                                                     <div class="input-group">
                                                         <select class="form-control" name="table" id="table" style="  border: 1px solid #8e8787; color: black">
                                                           <option selected="selected" disabled="disabled">Table Number</option>
@@ -120,24 +120,25 @@
                                                                   <option value="10">10</option>
                                                         </select>               
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 
-                                                 <div class="form-group col-lg-4 col-md-4 col-sm-4 icon_arrow">
+                                                 <div class="form-group col-lg-6 col-md-6 col-sm-6 icon_arrow">
                                                     <div class="input-group">
                                                         <select class="form-control" name="slot" id="slot" style="border: 1px solid #8e8787; color: black">
                                                           <option selected="selected" disabled="disabled">Time Slot</option>
-                                                             <option value="12:15 AM">12:15 AM</option>
-                                                            <option value="12:30 AM">12:30 AM</option>
-                                                            <option value="12:45 AM">12:45 AM</option>
-                                                            <option value="01:00 AM">01:00 AM</option>
-                                                            <option value="01:15 AM">01:15 AM</option>
-                                                            <option value="01:30 AM">01:30 AM</option>
-                                                            <option value="01:45 AM">01:45 AM</option>
-                                                            <option value="02:00 AM">02:00 AM</option>
-                                                            <option value="02:15 AM">02:15 AM</option>
-                                                            <option value="02:30 AM">02:30 AM</option>
-                                                            <option value="02:45 AM">02:45 AM</option>
-                                                            <option value="03:00 AM">03:00 AM</option>
+                                                             <option value="10:00 AM">10:00 AM</option>
+                                                            <option value="11:00 AM">11:00 AM</option>
+                                                            <option value="12:00 PM">12:00 PM</option>
+                                                            <option value="01:00 PM">01:00 PM</option>
+                                                            <option value="02:00 PM">02:00 PM</option>
+                                                            <option value="03:00 PM">03:00 PM</option>
+                                                            <option value="04:00 PM">04:00 PM</option>
+                                                            <option value="05:00 PM">05:00 PM</option>
+                                                            <option value="06:00 PM">06:00 PM</option>
+                                                            <option value="07:00 PM">07:00 PM</option>
+                                                            <option value="08:00 PM">08:00 PM</option>
+                                                            <option value="09:00 PM">09:00 PM</option>
+                                                            <option value="10:00 PM">10:00 PM</option>
                                                         </select>               
                                                     </div>
                                                 </div>
@@ -219,3 +220,15 @@
         
     </body>
 </html>
+<?php
+  // include 'session.php'; 
+    if(isset($_GET['p'])) {      
+            if($_GET['p'] == 3){ ?>
+            <script>swal("woohoo!! Your Reservation is confirmed.Bon Apetite!", {
+  buttons: false,
+  timer: 3000,
+
+});</script>
+            <!--echo '<script> alert(" Successfully Logout..")</script>';-->
+<?php }
+} ?>

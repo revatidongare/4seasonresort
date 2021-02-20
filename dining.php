@@ -63,7 +63,7 @@
 
                                                     </p>
                                                     <p>
-                                                    Enjoy a unique culinary experience which is served in a traditional style where the guest is treated like a King. It is divine.</p>
+                                                    Enjoy a unique culinary experience which is served in a traditional style where the guest is treated like a King. It is divine...</p>
                                                     <div class="our_services">
                                                         <!-- <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>
                                                         <a href="#">service charge : $15</a> -->
@@ -99,7 +99,7 @@
                                     <a href="#pick-up" aria-controls="pick-up" role="tab" data-toggle="tab"><img src="img/facility/Course-food-main-plate-restaurant-512.png" alt="pick-up"><span>MAIN COURSE</span></a>
                                 </li>
                                 <li role="presentation">
-                                     <a href="#bar" aria-controls="bar" role="tab" data-toggle="tab"><img src="img/facility/roti.png" alt="bar"><span>ROTI AND RICE</span></a>
+                                     <a href="#bar" aria-controls="bar" role="tab" data-toggle="tab"><img src="img/facility/roti.png" alt="bar"><span>Bread AND RICE</span></a>
                                 </li>
                                 <li role="presentation">
                                    <a href="#gym" aria-controls="gym" role="tab" data-toggle="tab"><img src="img/facility/cc.png" alt="gym"><span>CHINESE MENU</span></a>
@@ -245,13 +245,13 @@
                                              <div class="co-lg-4 col-md-4 col-sm-6">
                                                 <div class="single-tab-details">
                                                    <!--  <h6>The world class</h6> -->
-                                                    <h3>ROTI AND RICE</h3>
+                                                    <h3>Bread AND RICE</h3>
                                                     <h5>Roti 
                                                     </h5>
                                                     <br>
                                                     <p>- Garlic naan</p>
                                                    <p>- Kashmiri naan</p>
-                                                   <p>- Paratha plain / Batter</p>
+                                                   <p>- Paratha plain / Butter</p>
                                                       <p>- Roti plain  /  Butter</p>
                                                   
                                                     <div class="our_services">
@@ -319,7 +319,7 @@
                                                     <p>- Chicken chili dry</p>
                                                    <p>- Sweet and sour chicken</p>
                                                    <p>- Chicken schezwan</p>
-                                                      <p>- Lolli pop</p>
+                                                      <p>- Lollipop</p>
                                                   
                                                     <div class="our_services">
                                                         <!-- <a href="#" class="margin-right-33">Service Hours; 19.00-22:00 </a>

@@ -110,11 +110,11 @@
                 <div class="row">
                     <div class="other_room">
                         <div class="section_title nice_title content-center">
-                            <h3>Standard Room</h3>
+                            <h3>Room Type</h3>
                         </div>
                         <div class="section_content">
                             <!-- start hotel booking -->
-                            <div class="hotel_booking_area">
+                           <!--  <div class="hotel_booking_area">
                                 <div class="container">
                                     <div class="hotel_booking margin-bottom-30">
                                         <form id="form1" role="form" action="#" class="">
@@ -176,18 +176,23 @@
                                         </form>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- end hotel booking -->
 
                             <!-- start single room details -->
                             <div class="accomodation_single_room">
                                 <div class="container">
                                     <div class="row">
+                                        <h6 style="    padding-left: 12px;">Suite Room</h6>
                                         <div class="col-lg-3 col-md-3 col-sm-3">
                                             <div class="single_room_wrapper clearfix padding-bottom-30">
+
                                                 <figure class="uk-overlay uk-overlay-hover">
+
                                                     <div class="room_media">
+
                                                         <a href="#"><img src="img/room/room12.png" alt=""></a>
+
                                                     </div>
                                                     <div class="room_title border-bottom-whitesmoke clearfix">
                                                             <div class="left_room_title floatleft">
@@ -198,25 +203,7 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                           <!--  <h5>Suite Room</h5> -->
-                                                            <p>
-                                                                Suite Rooms are spacious and have a beautiful view of the lovely abundance. 
-                                                            </p>
-                                                            <p>
-                                                                It’s a very cozy and an exclusive suite giving you a superior experience
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$130/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  
                                                 </figure>
                                             </div>
                                         </div>
@@ -235,27 +222,7 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                            <!-- <h5>Suite Room</h5> -->
-                                                            <p>
-                                                                Suite Rooms are spacious and have a beautiful view of the lovely abundance. 
-
-
-                                                            </p>
-                                                            <p>
-                                                                It’s a very cozy and an exclusive suite giving you a superior experience.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$140/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  
                                                 </figure>
                                             </div>
                                         </div>
@@ -274,27 +241,7 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                            <!-- <h5>Suite Room</h5> -->
-                                                            <p>
-                                                                Suite Rooms are spacious and have a beautiful view of the lovely abundance. 
-
-
-                                                            </p>
-                                                            <p>
-                                                                It’s a very cozy and an exclusive suite giving you a superior experience.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                   <!--  <p>$200/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  
                                                 </figure>
                                             </div>
                                         </div>
@@ -313,31 +260,13 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                            <!-- <h5>Suite Room</h5> -->
-                                                            <p>
-                                                                Suite Rooms are spacious and have a beautiful view of the lovely abundance. 
-
-                                                            </p>
-                                                            <p>
-                                                                It’s a very cozy and an exclusive suite giving you a superior experience.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$100/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  
                                                 </figure>
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3 col-sm-3">
                                             <div class="single_room_wrapper clearfix padding-bottom-30">
+                                                <h6>deluxe Room</h6>
                                                 <figure class="uk-overlay uk-overlay-hover">
                                                     <div class="room_media">
                                                         <a href="#"><img src="img/room/room1.png" alt=""></a>
@@ -351,25 +280,7 @@
                                                                <!--  <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                            <!-- <h5>Delux Room</h5> -->
-                                                            <p>
-                                                                Deluxe Rooms are comfortable. Fixed with all the modern amenities. 
-                                                            </p>
-                                                            <p>
-                                                                Relax in comfort, take in nature’s beauty, and get pampered by its hospitable staff.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$160/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
                                                 </figure>
                                             </div>
                                         </div>
@@ -388,25 +299,7 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                            <!-- <h5>Delux Room</h5> -->
-                                                            <p>
-                                                                Deluxe Rooms are comfortable. Fixed with all the modern amenities. 
-                                                            </p>
-                                                            <p>
-                                                                Relax in comfort, take in nature’s beauty, and get pampered by its hospitable staff.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$250/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                        
                                                 </figure>
                                             </div>
                                         </div>
@@ -425,25 +318,7 @@
                                                                <!--  <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-<!--                                                             <h5>Deluxe Room</h5> -->
-                                                            <p>
-                                                                Deluxe Rooms are comfortable. Fixed with all the modern amenities. 
-                                                            </p>
-                                                            <p>
-                                                                Relax in comfort, take in nature’s beauty, and get pampered by its hospitable staff.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$170/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                
                                                 </figure>
                                             </div>
                                         </div>
@@ -462,25 +337,7 @@
                                                                 <!-- <a href="#" class="btn">Book</a> -->
                                                             </div>
                                                         </div>
-                                                    <div class="uk-overlay-panel uk-overlay-background single_wrapper_details clearfix animated bounceInDown">
-                                                        <div class="border-dark-1 padding-22 clearfix single_wrapper_details_pad">
-                                                           <!--  <h5>Deluxe Room</h5> -->
-                                                            <p>
-                                                                Deluxe Rooms are comfortable. Fixed with all the modern amenities. 
-                                                            </p>
-                                                            <p>
-                                                                Relax in comfort, take in nature’s beauty, and get pampered by its hospitable staff.
-                                                            </p>
-                                                            <div class="single_room_cost clearfix">
-                                                                <div class="floatleft">
-                                                                    <!-- <p>$190/ <span>night</span></p> -->
-                                                                </div>
-                                                                <div class="floatright">
-                                                                    <!-- <a href="#" class="btn">Book</a> -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  
                                                 </figure>
                                             </div>
                                         </div>

@@ -47,8 +47,8 @@
                                     </li>     
                                    
                                     <li><a href="dining.php">Dining</a></li>
-                                    <li><a href=".php">Packages</a></li>
-                                       <li><a href="gallery.php">Gallary</a></li>
+                                    <li><a href="package.php">Packages</a></li>
+                                       <li><a href="gallery.php">Gallery</a></li>
 
                                         <li  class="blink" >
                                         <a href="btable.php"style="color: red">
